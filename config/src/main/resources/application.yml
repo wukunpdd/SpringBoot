@@ -1,0 +1,8 @@
+wukun:
+  age: 24
+  birthday: 1994-01-24
+  city: shenzhen
+
+spring:
+  profiles:
+    active: test
