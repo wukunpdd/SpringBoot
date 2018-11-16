@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/jdbctemplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mybatis" charset="UTF-8" />
   </component>
 </project>

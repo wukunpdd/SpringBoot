@@ -11,6 +11,7 @@
     <modules>
         <module>config</module>
         <module>jdbctemplate</module>
+        <module>mybatis</module>
     </modules>
 
     <properties>

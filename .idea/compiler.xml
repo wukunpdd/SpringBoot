@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="config" />
         <module name="jdbctemplate" />
+        <module name="mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config" target="1.8" />
       <module name="jdbctemplate" target="1.8" />
+      <module name="mybatis" target="1.8" />
       <module name="SpringBoot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
