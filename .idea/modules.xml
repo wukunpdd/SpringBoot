@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpringBoot.iml" filepath="$PROJECT_DIR$/SpringBoot.iml" />
       <module fileurl="file://$PROJECT_DIR$/config/config.iml" filepath="$PROJECT_DIR$/config/config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbctemplate/jdbctemplate.iml" filepath="$PROJECT_DIR$/jdbctemplate/jdbctemplate.iml" />
     </modules>
   </component>
 </project>
